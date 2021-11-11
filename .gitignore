@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+NianticProjects/Builds/Libraries/libiPhone-lib.a
+NianticProjects/Library/ArtifactDB
+NianticProjects/Library/PackageCache/com.ptc.vuforia.engine@1e8326870dc0-1632536113000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine
+NianticProjects/Packages/com.ptc.vuforia.engine-10.2.5.tgz
